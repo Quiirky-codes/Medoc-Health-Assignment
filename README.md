@@ -329,8 +329,8 @@ For Windows systems, Docker-based execution is recommended to avoid native build
 
 ```
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Quiirky-codes/Medoc-Health-Assignment.git
+cd face_attendance
 
 ```
 
